@@ -1,4 +1,5 @@
-# Biometric Authentication App *Overview* This Android app utilizes biometric authentication to provide a secure and seamless user experience. The app employs a combination of strong and weak biometric patterns to ensure robust security. Built using MVVM architecture, Jetpack Compose, and Android's biometric authentication API, this app demonstrates a cutting-edge approach to user authentication.
+# Biometric Authentication App 
+*Overview* This Android app utilizes biometric authentication to provide a secure and seamless user experience. The app employs a combination of strong and weak biometric patterns to ensure robust security. Built using MVVM architecture, Jetpack Compose, and Android's biometric authentication API, this app demonstrates a cutting-edge approach to user authentication.
 *Features* 
 1. *Strong Biometric Pattern*: Utilizes Android's BiometricManager to authenticate users using fingerprint, face, or iris recognition.
 2. *Weak Biometric Pattern*: Employs a custom-designed pattern recognition system for users who do not have access to strong biometric hardware.
